@@ -1,3 +1,8 @@
+Author: Jacqui Bouchard
+User name: boucharj27
+Date: 11/19/2024
+Version: 1.0
+
 GIT INSTALL
 
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
