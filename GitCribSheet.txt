@@ -1,8 +1,7 @@
 Author: Jacqui Bouchard
 User name: boucharj27
 Date: 11/19/2024
-License: MIT Open Source Initiative
-Version: 1.5
+Version: 1.0
 
 GIT INSTALL
 
